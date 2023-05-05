@@ -1,0 +1,24 @@
+{
+  "name": "svg-to-ttf-flutter-icons",
+  "version": "1.0.0",
+  "description": "The program will ttf files & dart codes, and generate a font class.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^10.0.1",
+    "fontello-cli": "^0.6.2",
+    "oslllo-svg-fixer": "^2.2.0",
+    "parse-svg-path": "^0.1.2",
+    "scale-svg-path": "0.0.1",
+    "serialize-svg-path": "^0.1.0",
+    "svgo": "^3.0.2",
+    "svgpath": "^2.6.0",
+    "uid": "^2.0.1"
+  }
+}
